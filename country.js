@@ -20,6 +20,7 @@ fetch("data.json")
             <p><strong>Region:</strong> ${country.region}</p>
             <p><strong>Capital:</strong> ${country.capital || "N/A"}</p>
             <div class="border-countries">
+ <b>border countries:</b>
               ${country.borders?.map((border) => `<button class="border-country" onclick="window.location.href='country.html?alpha3Code=${encodeURIComponent(border)}'">${border}</button>`).join("") || "No bordering countries"}
             </div>
           </section>
