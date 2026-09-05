@@ -17,3 +17,4 @@ fetch('data.json')
             countries_container.append(country_card)
         })
     })
+
