@@ -20,3 +20,4 @@ Check out the live project here: [country-flag-api-practice.vercel.app](https://
 
 ### update 
 api became paid so i used a json file.
+dark mode will be implemented soon.
