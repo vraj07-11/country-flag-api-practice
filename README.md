@@ -6,6 +6,7 @@ A dynamic web application built to fetch and display country details, flags, and
 - **Country Search:** Look up specific countries to view their flags and core information.
 - **Dynamic API Integration:** Fetches and renders live data cleanly on the fly.
 - **Responsive Layout:** Optimized to look and work great across all devices.
+- **Different Themes:** has two themes. light and dark.
 
 ### Built With
 <p>
@@ -20,5 +21,4 @@ Check out the live project here: [country-flag-api-practice.vercel.app](https://
 
 ### update 
 api became paid so i used a json file.
-<br>
-dark mode will be implemented soon.
+
