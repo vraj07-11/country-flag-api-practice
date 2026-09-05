@@ -20,5 +20,5 @@ A dynamic web application built to fetch and display country details, flags, and
 Check out the live project here: [country-flag-api-practice.vercel.app](https://country-flag-api-practice.vercel.app/)
 
 ### update 
-api became paid so i used a json file.
+api became paid so i used an object as api.
 
